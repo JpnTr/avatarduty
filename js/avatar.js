@@ -28,7 +28,7 @@ function preload() {
   game.load.audio('gender', 'sfx/gender.wav');
 
   // ui
-  game.load.image('hex', 'ui/hex.svg');
+  game.load.image('hex', 'ui/hex1.svg');
   game.load.image('header', 'ui/header.svg');
   game.load.image('larrow', 'ui/arrow-l.svg');
   game.load.image('rarrow', 'ui/arrow-r.svg');
